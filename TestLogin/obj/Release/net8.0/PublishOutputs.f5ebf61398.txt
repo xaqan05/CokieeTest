@@ -1,0 +1,11 @@
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\TestLogin.exe
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\TestLogin.dll
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\TestLogin.deps.json
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\TestLogin.runtimeconfig.json
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\TestLogin.pdb
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

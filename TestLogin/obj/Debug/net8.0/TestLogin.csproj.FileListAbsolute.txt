@@ -34,3 +34,4 @@ C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Debug\net8.0
 C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Debug\net8.0\TestLogin.pdb
 C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Debug\net8.0\TestLogin.genruntimeconfig.cache
 C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Debug\net8.0\ref\TestLogin.dll
+C:\Users\xaqan\Desktop\Programming\Projects\TestLogin\TestLogin\obj\Debug\net8.0\TestLogin.sourcelink.json
