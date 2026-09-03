@@ -43,7 +43,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestLogin",
+              "Title": "TestLogin.csproj",
               "DocumentMoniker": "C:\\Users\\xaqan\\Desktop\\Programming\\Projects\\TestLogin\\TestLogin\\TestLogin.csproj",
               "RelativeDocumentMoniker": "TestLogin\\TestLogin.csproj",
               "ToolTip": "C:\\Users\\xaqan\\Desktop\\Programming\\Projects\\TestLogin\\TestLogin\\TestLogin.csproj",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "TestLogin\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-03T13:05:39.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T13:05:39.729Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "TestLogin\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T12:08:33.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T12:08:33.468Z"
             },
             {
               "$type": "Document",
