@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "TestLogin.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "api/Test/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestLogin.Controllers.TestController",
+    "Method": "Set",
+    "RelativePath": "api/Test/Set",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
